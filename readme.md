@@ -6,6 +6,25 @@ Scratchを用いたプログラミング作品や、WEBコーディング（HTML
 # おすすめレポ
 おおすすめのプロジェクトを紹介します。
 
+## TenGun (las2minecraftプロジェクト)
+lasをminecraftのsetblockデータに変換します
+
+
+las2mcfunction : https://github.com/androidprod/las2mcfunction
+
+
+生成されたmcfunctionから自動化に必要なコマンドを生成します。
+
+
+mcfunction2list : https://github.com/androidprod/mcfunction2list
+
+
+生成されたコマンドかつその他のコマンドをMinecraft BedrockでのWebsocket通信機能でコマンドを送信します。
+
+
+list2hosting (command2send) : https://github.com/androidprod/list2hosting
+
+
 ## Benchmarkソフト
 通常版 : https://github.com/androidprod/Benchmark-Flops
 
