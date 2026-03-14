@@ -9,8 +9,6 @@ Scratch・Web（HTML/CSS/JavaScript）・Minecraftに関連するプロジェク
 
 ## 🌟 おすすめプロジェクト
 
----
-
 ### 🎭 SkinGetBE — Bedrockスキン取得ツール
 
 Minecraft Bedrock Editionの通信スタックを独自実装し、  
