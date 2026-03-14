@@ -1,36 +1,47 @@
-# androidprod / droidprod
-Scratchを用いたプログラミング作品や、WEBコーディング（HTML・CSS・JavaScript）による創造的な開発、さらにはMinecraft（マイクラ）に関連するさまざまなプロジェクトを紹介しています。また、時折更新されるブログでは、制作の裏話や学んだこと、挑戦したことなどを記録しています。最近では、オリジナルのミニゲームの制作やWEBアプリの公開にも取り組んでいます。
+# 👾 androidprod / droidprod
 
-> 引用 : aprd's site : https://androidprod.f5.si/
+Scratch・Web（HTML/CSS/JavaScript）・Minecraftに関連するプロジェクトを制作しています。  
+オリジナルのミニゲームやWebアプリの公開、ブログでの制作記録なども行っています。
 
-# おすすめレポ
-おおすすめのプロジェクトを紹介します。
+🌐 **サイト:** [aprd's site](https://androidprod.f5.si/)
 
-## TenGun (las2minecraftプロジェクト)
-lasをminecraftのsetblockデータに変換します
+---
 
+## 🌟 おすすめプロジェクト
 
-las2mcfunction : https://github.com/androidprod/las2mcfunction
+---
 
+### 🎭 SkinGetBE — Bedrockスキン取得ツール
 
-生成されたmcfunctionから自動化に必要なコマンドを生成します。
+Minecraft Bedrock Editionの通信スタックを独自実装し、  
+接続してきたクライアントからスキン画像（PNG）を自動取得・保存する研究目的のツールです。
 
+| バリアント | リポジトリ | 言語 |
+|:---:|---|:---:|
+| オリジナル版 | [SkinGetBE](https://github.com/androidprod/SkinGetBE) | C++ |
+| Python移植版 | [SkinGetBEpy](https://github.com/androidprod/SkinGetBEpy) | Python |
 
-mcfunction2list : https://github.com/androidprod/mcfunction2list
+---
 
+### 🗺️ TenGun — las2minecraft プロジェクト
 
-生成されたコマンドかつその他のコマンドをMinecraft BedrockでのWebsocket通信機能でコマンドを送信します。
+LiDAR点群データ（`.las`）をMinecraftのワールドデータに変換するパイプラインです。
 
+| ステップ | リポジトリ | 概要 |
+|:---:|---|---|
+| 1️⃣ | [las2mcfunction](https://github.com/androidprod/las2mcfunction) | `.las` → Minecraft `setblock` コマンドに変換 |
+| 2️⃣ | [mcfunction2list](https://github.com/androidprod/mcfunction2list) | mcfunctionから自動化用コマンドリストを生成 |
+| 3️⃣ | [list2hosting (command2send)](https://github.com/androidprod/list2hosting) | WebSocket経由でBedrock Editionにコマンドを送信 |
 
-list2hosting (command2send) : https://github.com/androidprod/list2hosting
+---
 
+### ⚡ Benchmark ソフト
 
-## Benchmarkソフト
-通常版 : https://github.com/androidprod/Benchmark-Flops
+PCの演算性能を計測するベンチマークツールです。
 
-最高性能版 : https://github.com/androidprod/Benchmark-Flops-Max
+- 🟢 **通常版:** [Benchmark-Flops](https://github.com/androidprod/Benchmark-Flops)
+- 🔴 **最高性能版:** [Benchmark-Flops-Max](https://github.com/androidprod/Benchmark-Flops-Max)
 
+---
 
-
-### 随時追加します！
-
+> 📌 プロジェクトは随時追加していきます！
