@@ -43,3 +43,5 @@ PCの演算性能を計測するベンチマークツールです。
 ---
 
 > 📌 プロジェクトは随時追加していきます！
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G71EPUMU)
