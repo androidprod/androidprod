@@ -17,6 +17,7 @@ Minecraft Bedrock Editionの通信スタックを独自実装し、
 | バリアント | リポジトリ | 言語 |
 |:---:|---|:---:|
 | オリジナル版 | [SkinGetBE](https://github.com/androidprod/SkinGetBE) | C++ |
+| Rust版改良版 | [SkinGetBE-Rust](https://github.com/androidprod/SkinGetBE-Rust) | Rust |
 | Python移植版 | [SkinGetBEpy](https://github.com/androidprod/SkinGetBEpy) | Python |
 
 ---
