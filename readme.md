@@ -3,7 +3,7 @@
 Scratch・Web（HTML/CSS/JavaScript）・Minecraftに関連するプロジェクトを制作しています。  
 オリジナルのミニゲームやWebアプリの公開、ブログでの制作記録なども行っています。
 
-🌐 **サイト:** [aprd's site](https://androidprod.f5.si/)
+🌐 **サイト:** [androidprod / アンドロイドプロット site](https://androidprod.f5.si/)
 
 ---
 
