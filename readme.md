@@ -21,6 +21,7 @@ Minecraft Bedrock Editionの通信スタックを独自実装し、
 | （非推奨）オリジナル版 | [SkinGetBE](https://github.com/androidprod/SkinGetBE) | C++ |
 
 ※非推奨のものは今後アップデートがされない場合があります。
+
 ---
 
 ### 🗺️ TenGun — las2minecraft プロジェクト
